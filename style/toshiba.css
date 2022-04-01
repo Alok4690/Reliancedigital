@@ -1,0 +1,16 @@
+#container6{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: auto;
+    gap: 10px;
+}
+.div{
+    margin-left: 50px;
+}
+.watchimg{
+    height: 200px;
+    width: 200px;
+}
+.boat{
+    color: black;
+}

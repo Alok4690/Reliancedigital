@@ -1,0 +1,165 @@
+.store{
+    display: flex;
+    padding: 4px 16px;
+    height: 27px;
+    background-color: #e42529;
+    justify-content: right;
+    font-size: 15px;
+}
+p{
+    padding: 4px 16px;
+    margin-top: -5px;
+    color: white;
+    font-family: system-ui;
+    
+}
+.icon{
+    margin-right: 10px;
+
+}
+#container{
+    display: flex;
+    justify-content: space-between;
+    height: 66px;
+    background-color: #e42529;
+}
+.select{
+    margin-right: 20px;
+    display: flex;
+    margin-top: 20px;
+    /* font-weight: 10px; */
+    /* font-style: 5px; */
+    font-size: 15px;
+}
+.search{
+    margin-top: 15px;
+    /* padding: 50px; */
+    font-size: 14px;
+    
+}
+#search{
+    padding: 10px 90px 10px 90px;
+    text-align: left;
+    border: none;
+}
+button{
+    padding: 10px 50px 10px 50px;
+    font-size: 15px;
+    background-color: #44adfb;
+    color: white;
+    border: none;
+    margin-left: -4px;
+}
+img{
+    height: 50px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+select> p{
+    font-size: 5px;
+    font-weight: 5px;
+}
+#slack{
+    height: 38px;
+    background-color: #1f4985;
+}
+#slack{
+    display: flex;
+    justify-content: space-evenly;
+}
+#slack>p{
+    font-size: 12px;
+    margin-top: 7px;
+    font-weight: bold;
+}
+#container3{
+    height: 300px;
+    width: 1000px;
+    border: 1px solid #dddddd;
+    margin: auto;
+    margin-top: 60px;
+}
+.container3{
+    width: 100%;
+    height: 50px;
+    background-color: #f5f5f5;
+    margin-top: -17px;
+    border: 1px solid #dddddd;
+}
+.container3>p{
+    font-family: system-ui;
+    padding: 20px;
+    color: #333333;
+    margin-top: -10px;
+    font-weight: bold;
+    font-size: 17px;
+}
+#container4{
+    display: flex;
+    
+}
+#container4>div{
+    height: 260px;
+    width: 500px;
+    /* border: 1px solid black; */
+    /* margin-top: 20px; */
+}
+.email{
+    margin-left: 30px;
+    font-family: system-ui;
+    color: #1774ef;
+    font-weight: lighter;
+}
+#input{
+    padding: 10px 120px 10px 120px;
+    margin-left: 30px;
+    margin-top: -15px
+}
+.continue{
+    margin-left: 30px;
+    margin-top: 30px;
+    padding: 12px 165px 12px 165px;
+    background-color: #e42529;
+}
+.ptag{
+    color: black;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 12px;
+}
+.register{
+    color: #e42529;
+    font-weight: bold;
+}
+.using{
+    font-family: system-ui;
+    padding: 20px;
+    color: #333333;
+    margin-top: -10px;
+    font-weight: bold;
+    font-size: 17px;
+    text-align: center;
+    margin-top: 20px;
+}
+.facebook{
+    background-color: #4867aa;
+    margin-left: 35%;
+    /* margin-left: ; */
+}
+.icon1{
+    background-color: #4867aa;
+    /* margin-left: 50px; */
+}
+.google{
+    background-color: white;
+    margin-left: 35%;
+    color: #000000;
+    border: 1px solid #7f7f7f;
+    margin-top: 20px;
+    padding: 10px 55px 10px 55px;
+    font-weight: bold;
+}
+.icon2{
+    font-size: 17px;
+    color: green;
+}

@@ -1,0 +1,98 @@
+#container0{
+    height: 400px;
+    width: 100%;
+    display: flex;
+    /* border: 1px solid red; */
+    background-color: #1f4985;
+}
+#container0>div{
+    
+    height:350px ;
+    width: 30%;
+    /* border: 1px solid black; */
+    margin-left: 50px;
+
+}
+.mickle{
+    color: white;
+    font-family: system-ui;
+    margin-top: 10px;
+}
+div>h3{
+    color: white;
+    font-family: system-ui;
+    margin-top: 10px;
+}
+#container1{
+    width: 100%;
+    height: 100px;
+    /* border: 1px solid red; */
+    display: flex;
+    background-color: #1f4985;
+}
+#container1>div{
+   
+    width: 37%;
+    height: 100%;
+    /* border: 1px solid black; */
+}
+.follow>h3{
+    color: white;
+    margin-left: 50px;
+    margin-bottom: 10px;
+    
+}
+.icon{
+    color: white;
+    margin-left: 50px;
+    margin-top: -5px;
+}
+.icon1{
+    color: white;
+     margin-top: -5px;
+}
+.img{
+    display: flex;
+}
+.img>img{
+    height: 40px;
+    width: 100px;
+    padding: 5px;
+    margin-top: -10px;
+
+}
+ .container2{
+    margin-left: -100px;
+}
+p:hover{
+    color: rgba(210, 210, 243, 0.63);
+    cursor: pointer;
+}
+i:hover{
+    color: rgba(210, 210, 243, 0.63);
+    cursor: pointer;
+}
+#declear{
+    height: 150px;
+    width: 100%;
+    /* border: 1px solid red; */
+    background-color: #0a244a;
+    margin-top: -15px;
+}
+#declear>p{
+    text-align: center;
+    /* margin-top: ; */
+}
+hr{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: -10px;
+    font-weight: lighter;
+    /* font-size: small; */
+}
+.pro{
+    text-align: justify;
+    font-size: 13px;
+    margin-left: 30px;
+    margin-right: 30px;
+}

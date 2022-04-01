@@ -1,0 +1,27 @@
+#form{
+    margin: auto;
+    border: 1px solid red;
+   text-align: center;
+   height: 400px;
+   width: 300px;
+   margin-top: 50px;
+   background-color: #0a244a;
+}
+.payment{
+    padding: 7px 30px 7px 30px;
+    margin-top: -15px;
+}
+#form>h3{
+    color: #31812e;
+    font-family: system-ui;
+}
+.submit{
+    margin-top: 20px;
+    padding: 5px 40px 5px 40px;
+    background-color: red;
+    border: none;
+    color: white;
+}
+.gateway{
+    text-align: center;
+}
