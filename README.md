@@ -13,6 +13,8 @@ HTML : 42.%
 CSS : 40.60%
 JavaScript : 20.70%
 
+live--https://zippy-torrone-672fe4.netlify.app/index.html
+
 Some Glimpse and Screenshots of our website:-
 
 # Home Page -
